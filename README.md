@@ -46,6 +46,26 @@ In order to validate your project and have it accepted, you must at least do bot
 - ft_digit
 - ft_tolower
 - ft_toupper
-   
 
+> **Other Functons**
 
+- ft_lstadd_back
+- ft_lstadd_front
+- ft_lstnew
+- ft_lstsize
+- ft_lstlast
+- ft_lstdelone
+- ft_lstclear
+- ft_lstiter
+- ft_lstmap
+- ft_split
+- ft_strsub
+- ft_putchar_fd
+- ft_putstr_fd
+- ft_putendl_fd
+- ft_putnbr_fd
+- ft_strjoin
+- ft_strmapi
+- ft_striteri
+- ft_strmapi
+- ft_strtrim
