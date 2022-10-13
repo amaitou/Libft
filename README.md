@@ -19,6 +19,7 @@ In order to validate your project and have it accepted, you must at least do bot
 
 **```Note: I haven't shared the PDF of this project, as well as, I haven't explained anything due to school privacy reasons!```**
 
+![Screenshot from 2022-09-12 11-58-24](https://user-images.githubusercontent.com/49293816/195661896-44114406-08cc-451e-bbc3-6fff2f53ded8.png)
 
 > **stdlib.h**
 - ft_atoi
