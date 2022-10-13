@@ -4,7 +4,7 @@
 # Libft
 
 This is the very first project in the **`42Cursus`** and it aims to recode and reproduce the behaviour of some pre-defined functions in **`c Libraries`**. <br/>
-some of these are pre-defined in the standard c libs and others are not.
+some of these are pre-defined in the standard `C libs` and others are not.
 
 The Libft project consists of three part
 - **Mandatory Part 1**
@@ -16,6 +16,9 @@ In order to validate your project and have it accepted, you must at least do bot
 ---
 
 # Functions
+
+**```Note: I haven't shared the PDF of this project, as well as, I haven't explained anything due to school privacy reasons!```**
+
 
 > **stdlib.h**
 - ft_atoi
@@ -69,3 +72,27 @@ In order to validate your project and have it accepted, you must at least do bot
 - ft_striteri
 - ft_strmapi
 - ft_strtrim
+
+---
+
+# Things you will learn in this project
+
+> Linked Lists
+
+> Memory Allocation
+
+> Dealing with strings in C
+
+> Understanding how Memory works
+
+> File Descriptors
+
+> Makefile
+
+## Contact Me
+
+* [Twitter][_1]
+* [Instagram][_2]
+
+[_1]: https://twitter.com/amait0u
+[_2]: https://www.instagram.com/amait0u
