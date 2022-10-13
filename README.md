@@ -47,7 +47,7 @@ In order to validate your project and have it accepted, you must at least do bot
 - ft_tolower
 - ft_toupper
 
-> **Other Functons**
+> **Other Functions**
 
 - ft_lstadd_back
 - ft_lstadd_front
