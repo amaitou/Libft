@@ -6,7 +6,7 @@
 /*   By: amait-ou <amait-ou@student.1337.ma>        +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/09/29 14:55:25 by amait-ou          #+#    #+#             */
-/*   Updated: 2022/10/09 18:24:06 by amait-ou         ###   ########.fr       */
+/*   Updated: 2022/10/16 13:50:09 by amait-ou         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -15,7 +15,7 @@
 	it is so simple to add a node at the beginning of a linked list. 
 	since we have the "head" it is like adding the node in the back of
 	the "head"
-	as the next of the node will be "head"  and the head will be the node
+	as the next of the node will be "head" and the head will be the node
 	itself
 
 */

@@ -6,14 +6,14 @@
 /*   By: amait-ou <amait-ou@student.1337.ma>        +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/10/05 08:59:03 by amait-ou          #+#    #+#             */
-/*   Updated: 2022/10/08 18:58:59 by amait-ou         ###   ########.fr       */
+/*   Updated: 2022/10/16 13:51:54 by amait-ou         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 /*
 
 	This is a linked list, so if you want to count te size of this linked
-	list, you have to achieve the last node wich is NULL and increment
+	list, you have to achieve the last node wich is "NULL" and increment
 	the counter by one in each move to the next
 
 */

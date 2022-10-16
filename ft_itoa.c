@@ -6,7 +6,7 @@
 /*   By: amait-ou <amait-ou@student.1337.ma>        +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/10/03 20:42:35 by amait-ou          #+#    #+#             */
-/*   Updated: 2022/10/09 18:15:41 by amait-ou         ###   ########.fr       */
+/*   Updated: 2022/10/16 13:48:16 by amait-ou         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -37,7 +37,7 @@
 	in case "n" == 0 only one memory will be allocated and will hold 0.
 
 	if nb < 0 I put '-' at the beginning of the string because '-' has been
-	counted as a character in "len_num(long int nb)" then i convert the nb to 
+	counted as a character in "len_num(long int nb)" then I convert the "nb" to 
 	positive integer to perform the operation of converting each digit into 
 	character starting from the end of "n".
 

@@ -6,12 +6,12 @@
 /*   By: amait-ou <amait-ou@student.1337.ma>        +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/10/01 23:14:20 by amait-ou          #+#    #+#             */
-/*   Updated: 2022/10/08 13:04:05 by amait-ou         ###   ########.fr       */
+/*   Updated: 2022/10/16 13:55:47 by amait-ou         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 /*
-	The ft_split function returns an array of strings splitted according to
+	The "ft_split" function returns an array of strings splitted according to
 	a particular character.
 
 	The first function I use is "words(const char *s, char c)" which counts
@@ -23,7 +23,7 @@
 	a variable counter will be incremnted by one.
 	
 	The second function I use is "letters(const char *s, int position, char c)"
-	generally it counts how many letters are contained within a word according to
+	generally ,it counts how many letters are contained within a word according to
 	the position of the word as it starts moving the pointer straight ahead and
 	increments the pointer by one as long as the pointer is not equal to the "c".
 
@@ -37,7 +37,7 @@
 	that allocates a double pointer to help us store our splitted strings using the 
 	"words" function that counts the number of words.
 
-	note: if the allocation fails in any piece of code. NULL will be returned.
+	note: if the allocation fails in any piece of code. "NULL" will be returned.
 */
 
 #include "libft.h"

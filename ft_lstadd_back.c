@@ -6,14 +6,14 @@
 /*   By: amait-ou <amait-ou@student.1337.ma>        +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/09/29 14:55:25 by amait-ou          #+#    #+#             */
-/*   Updated: 2022/10/11 12:24:24 by amait-ou         ###   ########.fr       */
+/*   Updated: 2022/10/16 13:49:13 by amait-ou         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 /*
 	"ft_lstadd_back" adds a node at the end of the linked list
 	that's why we have to achieve the last node which its next is "NULL" then
-	adds the new node to its next.
+	add the new node to its next.
 	
 	if the linked list is empty then the node that we are atteempting to add 
 	would be the first one.

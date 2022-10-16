@@ -6,7 +6,7 @@
 /*   By: amait-ou <amait-ou@student.1337.ma>        +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/10/01 20:34:51 by amait-ou          #+#    #+#             */
-/*   Updated: 2022/10/09 15:18:45 by amait-ou         ###   ########.fr       */
+/*   Updated: 2022/10/16 14:00:05 by amait-ou         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -19,7 +19,7 @@
 	firstly the function checks is the given pointer "s" is "NULL" to stop
 	the processes since there is no nedd to allocate a string from "NULL".
 
-	there 3 cases to locate a substring within a string :
+	there are 3 cases to locate a substring within a string :
 		ft_strlen(s) <= start :
 			in this case the the only thing to be allocated is '\0'
 			as there is nothng else to e allocated because the len is out of
@@ -28,7 +28,7 @@
 		len >= ft_strlen(s):
 			this case is more related to memory wasting.
 			let's suppose that you have string contained from 16 characters,
-			len is 10 and start is 10 
+			len is 30 and start is 6 
 			since you have to allocate only 10 characters why would you allocate
 			30 characters and most of them would be unsused. that's why I've used
 			"ft_strdup".

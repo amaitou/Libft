@@ -6,13 +6,13 @@
 /*   By: amait-ou <amait-ou@student.1337.ma>        +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/09/29 11:28:02 by amait-ou          #+#    #+#             */
-/*   Updated: 2022/10/08 22:25:21 by amait-ou         ###   ########.fr       */
+/*   Updated: 2022/10/16 12:58:56 by amait-ou         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 /*
 
-	This functions returns true if the given character is alphanumeric
+	This function returns true if the given character is alphanumeric
 	(either number or alphabet)
 
 	since we have created the ft_isdigit() and ft_isalpha() functions

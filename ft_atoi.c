@@ -6,7 +6,7 @@
 /*   By: amait-ou <amait-ou@student.1337.ma>        +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/09/30 17:19:53 by amait-ou          #+#    #+#             */
-/*   Updated: 2022/10/16 12:56:43 by amait-ou         ###   ########.fr       */
+/*   Updated: 2022/10/16 12:57:59 by amait-ou         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -43,7 +43,7 @@
 	if the sign is negative and equal to '-' the "s" wil be "-1"
 	as mentioned before
 
-	finally perform the formula on the first set of numbers and return
+	finally, perform the formula on the first set of numbers and return
 	an integer (result * sign)
 
  */
