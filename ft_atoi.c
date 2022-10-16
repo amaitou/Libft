@@ -6,15 +6,15 @@
 /*   By: amait-ou <amait-ou@student.1337.ma>        +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/09/30 17:19:53 by amait-ou          #+#    #+#             */
-/*   Updated: 2022/10/09 18:10:13 by amait-ou         ###   ########.fr       */
+/*   Updated: 2022/10/16 12:56:43 by amait-ou         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #include "libft.h"
 
 /*
- 	ft_atoi is the opposite of itoa since this one converts from string to
-	integer.
+ 	"ft_atoi" is the opposite of "ft_itoa" since this one converts from string 
+	to integer.
 
 	Ps: if you want to know why some of my functions here are static ones.
    	feel free to read the comment I wrote in "libft.h"
