@@ -5,15 +5,15 @@
 
 # Libft
 
-This is the very first project in the **`42Cursus`** and it aims to recode and reproduce the behaviour of some pre-defined functions in **`c Libraries`**. <br/>
-some of these are pre-defined in the standard `C libs` and others are not.
+This is the very first project in the **`42Cursus`** and it aims to recode and reproduce the behaviour of some pre-defined functions in **`C Standard Libs`**. <br/>
+some of these functions are pre-defined in the standard `C libs` and others are not.
 
-The Libft project consists of three part
+The Libft project consists of three part:
 - **Mandatory Part 1**
 - **Mandatory Part 2**
 - **Bonus Part**
   
-In order to validate your project and have it accepted, you must at least do both of Mandatory Parts. (Bonus part is not that necessary but it gives extra XPs and it spreads to **`Blackhole`**).
+In order to validate your project and have it accepted, you must at least do both of Mandatory Parts. (Bonus part is not that necessary but it gives extra XPs and it spreads The **`Blackhole`**).
 
 ---
 
@@ -82,15 +82,17 @@ In order to validate your project and have it accepted, you must at least do bot
 
 > Linked Lists
 
-> Memory Allocation
+> Memory Allocation and manipulation
 
-> Dealing with strings in C
+> String manipulation
 
 > Understanding how Memory works
 
 > File Descriptors
 
 > Makefile
+
+> Pointers in depth
 
 ## Contact Me
 
