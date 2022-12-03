@@ -5,7 +5,7 @@
 
 # Libft
 
-This is the very first project in the **`42Cursus`** and it aims to recode and reproduce the behaviour of some pre-defined functions in **`C Standard Libs`**. <br/>
+This is the very first project in the **`42Cursus`** and it aims to recode and reproduce the behavior of some pre-defined functions in **`C Standard Libs`**. <br/>
 some of these functions are pre-defined in the standard `C libs` and others are not.
 
 The Libft project consists of three part:
