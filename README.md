@@ -21,8 +21,6 @@ In order to validate your project and have it accepted, you must at least do bot
 
 **```Note: I haven't shared the PDF of this project, as well as, I haven't explained anything due to school privacy reasons!```**
 
-![Screen_Shot_2022-10-13_at_6 07 07_PM](https://user-images.githubusercontent.com/49293816/195662453-cb701fce-29a8-4c98-ab3d-6c5f69e4304a.png)
-
 > **stdlib.h**
 - ft_atoi
 - ft_calloc
