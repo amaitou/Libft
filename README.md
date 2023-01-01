@@ -1,6 +1,7 @@
 
 ---
-![image](https://user-images.githubusercontent.com/49293816/195663339-ad5288ed-14cf-4563-9031-54f354d41820.jpg)
+![Quotation-Albert-Einstein-Weak-people-revenge-Strong-people-forgive-Intelligent-People-Ignore-124-25-28](https://user-images.githubusercontent.com/49293816/210186736-1ba0d69a-cbfc-4d52-9804-23be38893df5.jpeg)
+
 ---
 
 # Libft
@@ -13,7 +14,7 @@ The Libft project consists of three part:
 - **Mandatory Part 2**
 - **Bonus Part**
   
-In order to validate your project and have it accepted, you must at least do both of Mandatory Parts. (Bonus part is not that necessary but it gives extra XPs and it spreads The **`Blackhole`**).
+In order to validate your project and have it accepted, you must at least do both of Mandatory Parts. (Bonus part is not that necessary but it gives extra XPs and days for The **`Blackhole`**).
 
 ---
 
