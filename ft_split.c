@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   ft_split.c                                         :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: amait-ou <amait-ou@student.1337.ma>        +#+  +:+       +#+        */
+/*   By: amait-ou <amait-ou@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/10/01 23:14:20 by amait-ou          #+#    #+#             */
-/*   Updated: 2022/10/16 13:55:47 by amait-ou         ###   ########.fr       */
+/*   Updated: 2023/06/27 18:16:42 by amait-ou         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -20,7 +20,7 @@
 	to the character, once a character doesn't equal the pointer, then this is the 
 	first element of the word. and we know the the end of a word when we make 
 	the pointer to step ahead to equal the character. once this condition is true, 
-	a variable counter will be incremnted by one.
+	a variable counter will be incremented by one.
 	
 	The second function I use is "letters(const char *s, int position, char c)"
 	generally ,it counts how many letters are contained within a word according to
@@ -28,7 +28,7 @@
 	increments the pointer by one as long as the pointer is not equal to the "c".
 
 	Thirdly, "allocation(char **p, char const *s, int i, char c)", basically
-	this function allocates a block of memory for each word accoring to how
+	this function allocates a block of memory for each word according to how
 	many letters it has got using the returned result from "letter" function
 	in a double pointer that refers to a 2d arrays whee we store our data.
 

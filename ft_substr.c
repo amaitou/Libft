@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   ft_substr.c                                        :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: amait-ou <amait-ou@student.1337.ma>        +#+  +:+       +#+        */
+/*   By: amait-ou <amait-ou@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/10/01 20:34:51 by amait-ou          #+#    #+#             */
-/*   Updated: 2022/10/16 14:00:05 by amait-ou         ###   ########.fr       */
+/*   Updated: 2023/06/27 18:17:23 by amait-ou         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -22,7 +22,7 @@
 	there are 3 cases to locate a substring within a string :
 		ft_strlen(s) <= start :
 			in this case the the only thing to be allocated is '\0'
-			as there is nothng else to e allocated because the len is out of
+			as there is nothing else to e allocated because the len is out of
 			the string
 
 		len >= ft_strlen(s):
@@ -30,7 +30,7 @@
 			let's suppose that you have string contained from 16 characters,
 			len is 30 and start is 6 
 			since you have to allocate only 10 characters why would you allocate
-			30 characters and most of them would be unsused. that's why I've used
+			30 characters and most of them would be unused. that's why I've used
 			"ft_strdup".
 
 		otherwise

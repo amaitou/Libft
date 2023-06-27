@@ -3,16 +3,16 @@
 /*                                                        :::      ::::::::   */
 /*   ft_isascii.c                                       :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: amait-ou <amait-ou@student.1337.ma>        +#+  +:+       +#+        */
+/*   By: amait-ou <amait-ou@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/09/29 12:18:49 by amait-ou          #+#    #+#             */
-/*   Updated: 2022/10/09 18:12:46 by amait-ou         ###   ########.fr       */
+/*   Updated: 2023/06/27 18:15:28 by amait-ou         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 /*
  	
- 	this function chacks if the given character is a valid 7-bits.
+ 	this function checks if the given character is a valid 7-bits.
 	
 	- 7-bits chars are the characters which have 7 bits in their 
 	binary representation when they got converted from "ascii" to "binary"

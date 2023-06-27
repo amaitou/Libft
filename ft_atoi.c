@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   ft_atoi.c                                          :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: amait-ou <amait-ou@student.1337.ma>        +#+  +:+       +#+        */
+/*   By: amait-ou <amait-ou@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/09/30 17:19:53 by amait-ou          #+#    #+#             */
-/*   Updated: 2022/10/16 12:57:59 by amait-ou         ###   ########.fr       */
+/*   Updated: 2023/06/27 18:14:52 by amait-ou         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -23,12 +23,12 @@
 	the first one is "*s" that is a pointer to an array of characters
 	meanwhile, the second is "c" which is a character.
 	the main role of the functions is performing a linear search algorithm
-	by looping over "s" nTimes and returs true if the "c" was found otherwise 
+	by looping over "s" nTimes and returns true if the "c" was found otherwise 
 	it returns false.
 
 	the second and third functions are just helpers to detect spaces
 	and numbers within my string and both of them rely on the 
-	"contain(char *s, int c)" fucntion
+	"contain(char *s, int c)" function
 
 	here is the formula that would help us convert from "char" to "int"
 		integer = integer * 10 + character - 48

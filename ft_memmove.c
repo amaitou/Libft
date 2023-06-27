@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   ft_memmove.c                                       :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: amait-ou <amait-ou@student.1337.ma>        +#+  +:+       +#+        */
+/*   By: amait-ou <amait-ou@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/09/29 18:10:12 by amait-ou          #+#    #+#             */
-/*   Updated: 2022/10/16 13:53:56 by amait-ou         ###   ########.fr       */
+/*   Updated: 2023/06/27 18:16:20 by amait-ou         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -33,8 +33,8 @@
 		the data by overwriting it. memmove use a temporary memory allocation 
 		to store tha data to be copied from "src "to "dst", and since 
 		the malloc is forbidden in this part, there is another way to copy 
-		from "src" to "dst" without overlaping by using the copying from len 
-		to 0 (reversely) and this method is powerful to avoid "Memory Overlaping"
+		from "src" to "dst" without overlapping by using the copying from len 
+		to 0 (reversely) and this method is powerful to avoid "Memory Overlapping"
  
  */
 

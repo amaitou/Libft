@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   ft_lstadd_back.c                                   :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: amait-ou <amait-ou@student.1337.ma>        +#+  +:+       +#+        */
+/*   By: amait-ou <amait-ou@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/09/29 14:55:25 by amait-ou          #+#    #+#             */
-/*   Updated: 2022/10/16 13:49:13 by amait-ou         ###   ########.fr       */
+/*   Updated: 2023/06/27 18:15:44 by amait-ou         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -15,7 +15,7 @@
 	that's why we have to achieve the last node which its next is "NULL" then
 	add the new node to its next.
 	
-	if the linked list is empty then the node that we are atteempting to add 
+	if the linked list is empty then the node that we are attempting to add 
 	would be the first one.
 */
 

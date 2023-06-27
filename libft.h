@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   libft.h                                            :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: amait-ou <amait-ou@student.1337.ma>        +#+  +:+       +#+        */
+/*   By: amait-ou <amait-ou@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/09/29 11:12:45 by amait-ou          #+#    #+#             */
-/*   Updated: 2022/10/13 14:55:32 by amait-ou         ###   ########.fr       */
+/*   Updated: 2023/06/27 18:17:32 by amait-ou         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -17,7 +17,7 @@
   be read by any external files as well as they were made to help have my code
   done.
 
-  Note: I hate using the keyword NULL so you might see (void *)0 alot in my codes
+  Note: I hate using the keyword NULL so you might see (void *)0 a lot in my codes
 
  */
 

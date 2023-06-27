@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   ft_calloc.c                                        :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: amait-ou <amait-ou@student.1337.ma>        +#+  +:+       +#+        */
+/*   By: amait-ou <amait-ou@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/10/01 02:23:18 by amait-ou          #+#    #+#             */
-/*   Updated: 2022/10/16 13:47:02 by amait-ou         ###   ########.fr       */
+/*   Updated: 2023/06/27 18:15:14 by amait-ou         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -16,7 +16,7 @@
    a block of memory according to the count (number of elements to be allocated) 
    and the size (the size of the element) then calloc initializes each
    elements by zero.
-   if the allocattion fails from malloc the "ft_calloc" function will return
+   if the allocation fails from malloc the "ft_calloc" function will return
    "NULL" which is a null pointer and it could be written as "(void *)0".
 
    there is two ways to fill the allocated memory, either looping over each 
