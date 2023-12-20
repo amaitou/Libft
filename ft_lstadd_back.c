@@ -12,7 +12,7 @@
 
 /*
 	"ft_lstadd_back" adds a node at the end of the linked list
-	that's why we have to achieve the last node which its next is "NULL" then
+	that's why we have to achieve the last node which its next is "NULL" and then
 	add the new node to its next.
 	
 	if the linked list is empty then the node that we are attempting to add 
