@@ -19,7 +19,7 @@
 	first of all, we have to allocate memory for our new node using the malloc 
 	function, and if allocation fails, "NULL" will be returned.
 	after the allocation, we assign the parameter of the function to the new 
-	node's content meanwhile it's next will be "NULL" (mostly it is the last node)
+	node's content meanwhile its next will be "NULL" (mostly it is the last node)
 
 */
 
