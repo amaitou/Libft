@@ -13,16 +13,16 @@
 #include "libft.h"
 
 /*
- 	"ft_atoi" is the opposite of "ft_itoa" since this one converts from string 
+ 	"ft_atoi" is the opposite of "ft_itoa" since this one converts from a string 
 	to integer.
 
 	Ps: if you want to know why some of my functions here are static ones.
    	feel free to read the comment I wrote in "libft.h"
 
 	the first function is "contain(char *s, int c)" which takes two params,
-	the first one is "*s" that is a pointer to an array of characters
+	the first one is "*s" which is a pointer to an array of characters
 	meanwhile, the second is "c" which is a character.
-	the main role of the functions is performing a linear search algorithm
+	the main role of the functions is to perform a linear search algorithm
 	by looping over "s" nTimes and returns true if the "c" was found otherwise 
 	it returns false.
 
@@ -33,18 +33,19 @@
 	here is the formula that would help us convert from "char" to "int"
 		integer = integer * 10 + character - 48
 	
-	we assign the "s" with "1" this variable helps us detect
-	if the there is a negative sign within the "str" parameter if so
+	we assign the "s" with "1" This variable helps us detect
+	if there is a negative sign within the "str" parameter if so
 	that "1" would be "-1" and the result at the end would be
 	negative.
 
 	whenever there is a space the pointer will be one step ahead
 
-	if the sign is negative and equal to '-' the "s" wil be "-1"
+	if the sign is negative and equal to '-' the "s" will be "-1"
 	as mentioned before
 
 	finally, perform the formula on the first set of numbers and return
 	an integer (result * sign)
+
 
  */
 
