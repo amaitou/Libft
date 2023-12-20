@@ -11,30 +11,30 @@
 /* ************************************************************************** */
 
 /*
-	The "ft_split" function returns an array of strings splitted according to
+	The "ft_split" function returns an array of strings split according to
 	a particular character.
 
 	The first function I use is "words(const char *s, char c)" which counts
-	how many words within a "*s". its main idea is looping over the string 
+	how many words are within a "*s". its main idea is looping over the string 
 	and start positioning the pointer step ahead as long as the pointer is equal 
 	to the character, once a character doesn't equal the pointer, then this is the 
-	first element of the word. and we know the the end of a word when we make 
+	first element of the word. and we know the end of a word when we make 
 	the pointer to step ahead to equal the character. once this condition is true, 
 	a variable counter will be incremented by one.
 	
 	The second function I use is "letters(const char *s, int position, char c)"
-	generally ,it counts how many letters are contained within a word according to
+	generally, it counts how many letters are contained within a word according to
 	the position of the word as it starts moving the pointer straight ahead and
 	increments the pointer by one as long as the pointer is not equal to the "c".
 
 	Thirdly, "allocation(char **p, char const *s, int i, char c)", basically
 	this function allocates a block of memory for each word according to how
-	many letters it has got using the returned result from "letter" function
-	in a double pointer that refers to a 2d arrays whee we store our data.
+	many letters it has got using the returned result from the "letter" function
+	in a double pointer that refers to a 2D array where we store our data.
 
 
 	finally, our hero function which is right here "ft_split(const char *s), int c"
-	that allocates a double pointer to help us store our splitted strings using the 
+	that allocates a double pointer to help us store our split strings using the 
 	"words" function that counts the number of words.
 
 	note: if the allocation fails in any piece of code. "NULL" will be returned.
