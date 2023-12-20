@@ -12,7 +12,7 @@
 
 /*
 
-	This is a linked list, so if you want to count te size of this linked
+	This is a linked list, so if you want to count the size of this linked
 	list, you have to achieve the last node which is "NULL" and increment
 	the counter by one in each move to the next
 
