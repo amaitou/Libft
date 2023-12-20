@@ -15,7 +15,7 @@
 /*
 
   	the only three conditions you have to take care of are :
-		- both of dst and dstsize are NULL = return NULL
+		- both dst and dstsize are NULL = return NULL
  		- dstsize <= dst = src + dstsize
 	   	- dstsize > dst  = src + dst (copying)
  */
