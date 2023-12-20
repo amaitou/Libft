@@ -13,13 +13,13 @@
 /*
 
 	the only two things we know before creating a node are:
-		- the content of the node is void pointer (this will allow us to store 
+		- the content of the node is a void pointer (this will allow us to store 
 		any kind of data)
 		- the next of this node is a pointer which points to NULL
-	first of all, we have to allocate a memory for our new node using the malloc 
+	first of all, we have to allocate memory for our new node using the malloc 
 	function, and if allocation fails, "NULL" will be returned.
-	after the allocation we assign the parameter of the function to the new 
-	node's content meanwhile its next will be "NULL" (mostly it is the last node)
+	after the allocation, we assign the parameter of the function to the new 
+	node's content meanwhile it's next will be "NULL" (mostly it is the last node)
 
 */
 
