@@ -9,12 +9,12 @@
 This is the very first project in the **`42Cursus`** and it aims to recode and reproduce the behavior of some pre-defined functions in **`C Standard Libs`**. <br/>
 some of these functions are pre-defined in the standard `C libs` and others are not.
 
-The Libft project consists of three part:
+The Libft project consists of three parts:
 - **Mandatory Part 1**
 - **Mandatory Part 2**
 - **Bonus Part**
   
-In order to validate your project and have it accepted, you must at least do both of Mandatory Parts. (Bonus part is not that necessary but it gives extra XPs and days for The **`Blackhole`**).
+To validate your project and have it accepted, you must at least do both of the Mandatory Parts. (The bonus part is not that necessary but it gives extra XPs and days for The **`Blackhole`**).
 
 ---
 
