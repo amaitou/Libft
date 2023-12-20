@@ -12,10 +12,10 @@
 
 /*
  	
- 	this function checks if the given character is a valid 7-bits.
+ 	this function checks if the given character is a valid 7-bit.
 	
-	- 7-bits chars are the characters which have 7 bits in their 
-	binary representation when they got converted from "ascii" to "binary"
+	- 7-bit chars are the characters that have 7 bits in their 
+	binary representation when they got converted from "ASCII" to "binary"
 
 	0   -> 0
 	127 -> 1111111
