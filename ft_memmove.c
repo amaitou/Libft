@@ -13,9 +13,9 @@
 /*
  	
    we have created "ft_memcpy" but that last doesn't care at all about the 
-   overlap as it returns undefined, this my "ft_memmove" has been created to 
+   overlap as it returns undefined, my "ft_memmove" has been created to 
    handle this problem.
-   in order to copy from a source into a destination there is only three cases
+   to copy from a source into a destination there are only three cases
 
    	case 1:
    		when the "src" and "dst" point at the same block of memory, in this
@@ -23,18 +23,18 @@
 		the same.
 	
 	case 2:
-		when the "src" is greater than the "dst", in this case you might
-		want to use memcpy as an option os just loop over the src and copy
+		when the "src" is greater than the "dst", in this case, you might
+		want to use memcpy as an option or just loop over the src and copy
 		n elements starting from the beginning.
 	
 	case 3:
 		when the "dst" is greater than "src", here is why "ft_memmove" 
-		was made to handle what called "Memory Overlap" where we lost 
-		the data by overwriting it. memmove use a temporary memory allocation 
-		to store tha data to be copied from "src "to "dst", and since 
+		was made to handle what is called "Memory Overlap" where we lost 
+		the data by overwriting it. memmove uses a temporary memory allocation 
+		to store the data to be copied from "src "to "dst", and since 
 		the malloc is forbidden in this part, there is another way to copy 
 		from "src" to "dst" without overlapping by using the copying from len 
-		to 0 (reversely) and this method is powerful to avoid "Memory Overlapping"
+		to 0 (reversely) and this method is powerful in avoiding "Memory Overlapping"
  
  */
 
