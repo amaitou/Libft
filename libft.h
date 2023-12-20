@@ -12,7 +12,7 @@
 
 /*
 
-  You might see some of additional functions (static functions particularly) 
+  You might see some of the additional functions (static functions particularly) 
   within some of my c files and those functions are defined as static to not 
   be read by any external files as well as they were made to help have my code
   done.
